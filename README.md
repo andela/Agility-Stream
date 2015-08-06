@@ -13,9 +13,9 @@ Keeping track of agile software projects is hard. Let’s create an activity fee
 Changes from the project management tool (stories added, completed, comments, etc) are reflected in the feed
 Activity from GitHub (pushes, issues, etc) is reflected in the feed
 Any emails sent to the project-specific address show up in the feed
-Build status updates from TravisCI show up in the feed
+Build status updates from CircleCI show up in the feed
 The board displays some highlights from the team’s achievement this week
-Given that our team is super-agile and constantly pushing code, these events have smart aggregation. If the same person pushes code three times within a few hours, Agility Board only displays one event in the stream that links to all three commits. Or delivering two features in Tracker shows up as just one entry with two links.
+Given that our team is super-agile and constantly pushing code, these events have smart aggregation. If the same person pushes code three times within a few hours, Agility Stream only displays one event in the stream that links to all three commits. Or delivering two features in Tracker shows up as just one entry with two links.
 
 ###Technical Requirements
 
